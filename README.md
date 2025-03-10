@@ -11,6 +11,6 @@ The simulator serves as an excellent coding example to learn new programming lan
 
 This is an example of a simple game of life implementation in C# and .net 8. The simulation uses the console output to visualize the game progress.
 
-[Blog Post on the game ant it's implementation](https://briancaos.wordpress.com/2024/04/16/c-game-of-life/)
+[Blog Post on the game and it's implementation](https://briancaos.wordpress.com/2024/04/16/c-game-of-life/)
 
 
