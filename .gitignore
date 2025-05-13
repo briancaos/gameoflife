@@ -4,3 +4,7 @@
 
 /.vs/GameOfLife/FileContentIndex
 /obj
+/.vs
+/c-sharp/bin/Debug/net8.0
+/c-sharp/obj
+/c-sharp/.vs/GameOfLife
