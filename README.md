@@ -11,6 +11,27 @@ The simulator serves as an excellent coding example to learn new programming lan
 
 This is an example of a simple game of life implementation in various languages. The simulation uses the console output to visualize the game progress.
 
+## C# Version
+
+Open the project in Visual Studio and press **[F5]**.
 [Blog Post on the C# version of the game and it's implementation](https://briancaos.wordpress.com/2024/04/16/c-game-of-life/)
 
+## Javascript Version
 
+Runs in node.js. Ensure you have node installed.
+
+In a terminal, write:
+
+```
+node .\gameoflife.js
+```
+
+## Python Version
+
+Ensure you have Python installed.
+
+In a terminal, write:
+
+```
+py ./gameoflife.py
+```
