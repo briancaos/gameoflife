@@ -9,8 +9,8 @@ The simulator serves as an excellent coding example to learn new programming lan
 - If a cell is alive, and there are 4 or more living neighbors, the cell dies of overpopulation.
 - If a cell is dead, and there are 3 living neighbors, the cell comes alive.
 
-This is an example of a simple game of life implementation in C# and .net 8. The simulation uses the console output to visualize the game progress.
+This is an example of a simple game of life implementation in various languages. The simulation uses the console output to visualize the game progress.
 
-[Blog Post on the game and it's implementation](https://briancaos.wordpress.com/2024/04/16/c-game-of-life/)
+[Blog Post on the C# version of the game and it's implementation](https://briancaos.wordpress.com/2024/04/16/c-game-of-life/)
 
 

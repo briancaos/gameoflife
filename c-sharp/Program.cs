@@ -124,7 +124,7 @@ void DrawCell(int x, int y, bool isAlive)
 {
   Console.SetCursorPosition(x, y);
   if (isAlive)
-    Console.Write("O");
+    Console.Write("#");
   else
     Console.Write(" ");
 }
